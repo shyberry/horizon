@@ -1,0 +1,13 @@
+#构建Fedora系统 build Fedora on laptop
+
+system: Fedora Workstation 26
+Laptop: Dell Inspiron 7569
+
+Partition Table
+fromat: GPT
+sda1	/boot/efi	256MiB
+sda2	/swap		8GiB
+sda3	/			64GiB
+sda4	/var		64GiB
+sda5	/home		64GiB
+
