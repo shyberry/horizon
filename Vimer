@@ -2,3 +2,6 @@
 
 2# 安装Vundle	https://github.com/VundleVim/Vundle.vim
 	安装git和git clone；
+
+3# 安装solarized配色	https://github.com/altercation/vim-colors-solarized
+
