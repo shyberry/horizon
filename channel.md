@@ -1,3 +1,9 @@
+# Here are links for web-developer learning
+
+*一旦开始，便没有后退的路*
+
+
+
 ### 现在开始用vim开发Web前端吧
 >https://buildall.github.io/2015/12/09/frontendvim/
 ### 其中使用pathogen，不如使用vundle，更加便利先进
